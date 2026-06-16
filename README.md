@@ -1,4 +1,4 @@
-# 🌱 AI-Based Thermal Transmittance Prediction | Machine Learning for Sustainable Materials
+# 🌱 Data Science Project | Thermal Transmittance Prediction Model
 
 ## 🚀 Overview
 This project presents a **Machine Learning-based predictive model** developed in **Python** to estimate **thermal transmittance (U-value)** of **non-conventional construction materials**.
